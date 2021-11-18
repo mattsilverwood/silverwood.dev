@@ -1,2 +1,8 @@
 https://silverwooddev.netlify.app/*
    X-Robots-Tag: noindex
+
+https://silverwood.dev/404.html
+   X-Robots-Tag: noindex
+
+https://silverwood.dev/amazing
+   X-Robots-Tag: noindex
