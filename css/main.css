@@ -21,6 +21,11 @@ body main p {
     text-align: center;
 }
 
+body main p a,
+body main p a:visited {
+    color: #FFFFFF;
+}
+
 footer {
     position: absolute;
     bottom: 0%;
