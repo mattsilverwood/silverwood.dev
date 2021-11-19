@@ -1,8 +1,8 @@
 # Error handling
 /*	/404.html		404
-/rick   https://www.youtube.com/watch?v=dQw4w9WgXcQ 301
+/rick   https://www.youtube.com/watch?v=dQw4w9WgXcQ
 
 # Redirect
-http://silverwooddev.netlify.app  https://silverwood.dev 301!
-https://silverwooddev.netlify.app  https://silverwood.dev 301!
+http://silverwooddev.netlify.app  https://silverwood.dev 301
+https://silverwooddev.netlify.app  https://silverwood.dev 301
 
