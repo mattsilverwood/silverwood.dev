@@ -1,0 +1,10 @@
+# Short Url Redirects
+[[redirects]]
+  from = "/rick"
+  to = "https://www.youtube.com/watch?v=dQw4w9WgXcQ"
+  status = 302
+
+[[redirects]]
+  from = "/example"
+  to = "https://example.com/"
+  status = 302
